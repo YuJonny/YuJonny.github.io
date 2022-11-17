@@ -103,10 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
  type: git
- repo: https://github.com/YuJonny/yujonny.github.io.git
+ repo: https://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@github.com/YuJonny/yujonny.github.io.git
  branch: main
- token: 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
- username: yujonny
- email: yujonny@icloud.com
-
-
