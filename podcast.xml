@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Jonny Yu</title>
+    <link>http://yujonny.com/</link>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Jonny Yu</itunes:author>
+    <itunes:summary>「萬物研究員」&amp;lt;br&amp;gt;数码圈退休大爷&amp;lt;br&amp;gt;健身圈躺平菜狗&amp;lt;br&amp;gt;每天都想做个诗人</itunes:summary>
+    <description>「萬物研究員」&amp;lt;br&amp;gt;数码圈退休大爷&amp;lt;br&amp;gt;健身圈躺平菜狗&amp;lt;br&amp;gt;每天都想做个诗人</description>
+    <itunes:owner>
+      <itunes:name>Jonny Yu</itunes:name>
+      <itunes:email>yujonny@icloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://yujonny.com"/>
+    <itunes:category text="Society &amp; Culture - Personal Journals,Technology">
+      <itunes:category text="Society &amp; Culture - Personal Journals,Technology"/>
+    </itunes:category>
+    <itunes:explicit></itunes:explicit>
+    <language>zh-CN</language>
+    
+    <item>
+      <title>EP.1 社会性熔断｜99年裸辞退休｜年轻人到底怎么想的？</title>
+      <description><![CDATA[  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css" integrity="sha256-uqQQGnDcmRKvhKwc5Vm4XT1GQ2oV6t1U0NR2N9tV+BQ=" crossorigin="anonymous">  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" integrity="sha256-6Y7CJDaltoeNgk+ZftgCD9jLgmGv4xKUo8nQ0HgAwVo=" crossorigin="anonymous"></script>  <div id="clbg109d3001g7ijcf44b9a50"></div>  <script>const ap = new APlayer({      container: document.getElementById('clbg109d3001g7ijcf44b9a50'),      audio: [{          name: 'EP.1 社会性熔断｜99年裸辞退休｜年轻人到底怎么想的？',          url: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdThxX1JNNHdMMmwteC1QaUQ3TnFYYW0yYkxrP2U9OFVlMzNE.mp3',          cover: '/img/灰色3000.png'      }]  });</script>
+
+<p>test123</p>
+]]></description>
+      <itunes:author>Jonny Yu</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://URL/to/static/resources/img/灰色3000.png"/>
+      <enclosure url="https://URL/to/static/resourceshttps://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdThxX1JNNHdMMmwteC1QaUQ3TnFYYW0yYkxrP2U9OFVlMzNE.mp3" length="126975381" type=""/>
+      <guid>http://yujonny.com/2022/12/08/%E8%A3%B8%E8%BE%9E/</guid>
+      <pubDate>Wed, 07 Dec 2022 16:00:00 GMT</pubDate>
+      <itunes:duration>3921</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+  </channel>
+</rss>
