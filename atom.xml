@@ -36,6 +36,27 @@
   </entry>
   
   <entry>
+    <title>大理生活日记 Day 16</title>
+    <link href="http://yujonny.com/2022/12/09/%E5%A4%A7%E7%90%86%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B016/"/>
+    <id>http://yujonny.com/2022/12/09/%E5%A4%A7%E7%90%86%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B016/</id>
+    <published>2022-12-09T14:22:26.000Z</published>
+    <updated>2022-12-09T14:17:32.519Z</updated>
+    
+    <content type="html"><![CDATA[<p>很显然，这个破网站和破论文都遇到了瓶颈<br><a href="https://yujonny.com/2022/12/09/Podcast%E6%89%98%E7%AE%A1%E5%B9%B3%E5%8F%B0/">ref</a><br>我甚至请出了当代开发大师ChatGPT来帮我解惑<br><img src="https://i2.100024.xyz/2022/12/09/10f1wly.webp"><br>它在这儿卡了有半个小时了，它也不会。<br>好奇：AI会不会自动写邮件问开发者解决方案？</p><hr><p>今天吃完饭也看到了海上生明月<br>证实了我的猜想，每天月亮升起落下的时间都是不固定的，和农历节气有关<br><img src="https://i2.100024.xyz/2022/12/09/10n3t0h.webp" alt="IMG_0514"></p><p>这种很消耗又毫无推进的日子真的很难过</p>]]></content>
+    
+    
+    <summary type="html">在北京的人被疫情逼疯&lt;/br&gt;在大理的人被工作逼疯</summary>
+    
+    
+    
+    <category term="Blog" scheme="http://yujonny.com/categories/Blog/"/>
+    
+    
+    <category term="大理生活日记" scheme="http://yujonny.com/tags/%E5%A4%A7%E7%90%86%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>大理生活日记 Day 15</title>
     <link href="http://yujonny.com/2022/12/08/%E5%A4%A7%E7%90%86%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B015/"/>
     <id>http://yujonny.com/2022/12/08/%E5%A4%A7%E7%90%86%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B015/</id>
@@ -63,7 +84,7 @@
     <published>2022-12-07T16:00:00.000Z</published>
     <updated>2022-12-08T12:08:46.509Z</updated>
     
-    <content type="html"><![CDATA[  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css" integrity="sha256-uqQQGnDcmRKvhKwc5Vm4XT1GQ2oV6t1U0NR2N9tV+BQ=" crossorigin="anonymous">  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" integrity="sha256-6Y7CJDaltoeNgk+ZftgCD9jLgmGv4xKUo8nQ0HgAwVo=" crossorigin="anonymous"></script>  <div id="clbg562bk001iv2jchzc60uf3"></div>  <script>const ap = new APlayer({      container: document.getElementById('clbg562bk001iv2jchzc60uf3'),      audio: [{          name: 'EP.1 社会性熔断｜99年裸辞退休｜年轻人到底怎么想的？',          url: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdThxX1JNNHdMMmwteC1QaUQ3TnFYYW0yYkxrP2U9OFVlMzNE.mp3',          cover: '/img/灰色3000.png'      }]  });</script><p>test123</p>]]></content>
+    <content type="html"><![CDATA[  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css" integrity="sha256-uqQQGnDcmRKvhKwc5Vm4XT1GQ2oV6t1U0NR2N9tV+BQ=" crossorigin="anonymous">  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" integrity="sha256-6Y7CJDaltoeNgk+ZftgCD9jLgmGv4xKUo8nQ0HgAwVo=" crossorigin="anonymous"></script>  <div id="clbgmb2wj001fcejchnnq3u4a"></div>  <script>const ap = new APlayer({      container: document.getElementById('clbgmb2wj001fcejchnnq3u4a'),      audio: [{          name: 'EP.1 社会性熔断｜99年裸辞退休｜年轻人到底怎么想的？',          url: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdThxX1JNNHdMMmwteC1QaUQ3TnFYYW0yYkxrP2U9OFVlMzNE.mp3',          cover: '/img/灰色3000.png'      }]  });</script><p>test123</p>]]></content>
     
     
     <summary type="html">在大环境不断苛求年轻人更加努力拼搏的时候，他们究竟过着怎样的生活，追寻怎样的信仰？&lt;/br&gt;大范围的裸辞，是否为一种社会性的熔断机制？&lt;/br&gt;听听Jonny的现实故事，带你了解他们的想法&lt;/br&gt;&lt;/br&gt;主持人：Jonny、Anna&lt;/br&gt;插入视频：《一场精心策划的死亡》Jonny&lt;/br&gt;结尾音乐：《闯》五月天</summary>
@@ -399,29 +420,6 @@
     <summary type="html">“一些你想知道的” &lt;br&gt; 同右上角😆关于</summary>
     
     
-    
-    
-  </entry>
-  
-  <entry>
-    <title>EP.1 社会性熔断｜99年裸辞退休｜年轻人到底怎么想的？</title>
-    <link href="http://yujonny.com/2022/11/20/EP.1-%E7%A4%BE%E4%BC%9A%E6%80%A7%E7%86%94%E6%96%AD%EF%BD%9C99%E5%B9%B4%E8%A3%B8%E8%BE%9E%E9%80%80%E4%BC%91%EF%BD%9C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E6%83%B3%E7%9A%84%EF%BC%9F/"/>
-    <id>http://yujonny.com/2022/11/20/EP.1-%E7%A4%BE%E4%BC%9A%E6%80%A7%E7%86%94%E6%96%AD%EF%BD%9C99%E5%B9%B4%E8%A3%B8%E8%BE%9E%E9%80%80%E4%BC%91%EF%BD%9C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E6%83%B3%E7%9A%84%EF%BC%9F/</id>
-    <published>2022-11-20T09:02:07.208Z</published>
-    <updated>2022-11-22T09:02:28.876Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8bpait0axj30u00u0q5f.jpg" alt="pod_cover"></p><audio id="audio" controls="" preload="auto">      <source id="mp3" src="https://stream.redcircle.com/episodes/8bdfee94-09e9-49e3-9713-f410e991830d/stream.mp3"></audio><p>在大环境不断苛求年轻人更加努力拼搏的时候，他们究竟过着怎样的生活，追寻怎样的信仰？<br>大范围的裸辞，是否为一种社会性的熔断机制？<br>听听Jonny的现实故事，带你了解他们的想法</p><p>主持人：Jonny、Anna<br>插入视频：<a href="https://www.bilibili.com/video/BV12q4y1q7ZW/">《一场精心策划的死亡》</a>Jonny<br>结尾音乐：《闯》五月天</p><hr><p>（以下内容配置中）</p><p>Apple Podcast: </p><p>小宇宙: </p><p>Spotify: </p><p>Google Podcast: </p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/008vxvgGly1h8bpait0axj30u00u0q5f.jpg&quot; alt=&quot;pod_cover&quot;&gt;&lt;/p&gt;
-&lt;audio id=&quot;audio&quot; controls=&quot;&quot; preload=</summary>
-      
-    
-    
-    
-    <category term="Podcast" scheme="http://yujonny.com/categories/Podcast/"/>
     
     
   </entry>
