@@ -22,6 +22,6 @@ http://yujonny.com/about/index.html
 http://yujonny.com/categories/index.html
 http://yujonny.com/
 http://yujonny.com/tags/%E5%A4%A7%E7%90%86%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/
-http://yujonny.com/categories/Podcast/
 http://yujonny.com/categories/Blog/
+http://yujonny.com/categories/Podcast/
 http://yujonny.com/categories/podcast/
