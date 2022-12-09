@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yujonny.com/2022/12/09/Podcast%E6%89%98%E7%AE%A1%E5%B9%B3%E5%8F%B0/</loc>
+    
+    <lastmod>2022-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://yujonny.com/2022/12/08/%E5%A4%A7%E7%90%86%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B015/</loc>
     
     <lastmod>2022-12-08</lastmod>
@@ -218,14 +227,14 @@
 
   
   <url>
-    <loc>http://yujonny.com/categories/Blog/</loc>
+    <loc>http://yujonny.com/categories/Podcast/</loc>
     <lastmod>2022-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://yujonny.com/categories/Podcast/</loc>
+    <loc>http://yujonny.com/categories/Blog/</loc>
     <lastmod>2022-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

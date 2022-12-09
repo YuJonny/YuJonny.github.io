@@ -6,7 +6,7 @@
   <link href="http://yujonny.com/atom.xml" rel="self"/>
   
   <link href="http://yujonny.com/"/>
-  <updated>2022-12-08T13:08:45.815Z</updated>
+  <updated>2022-12-09T06:42:25.163Z</updated>
   <id>http://yujonny.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Podcast托管平台折腾记录</title>
+    <link href="http://yujonny.com/2022/12/09/Podcast%E6%89%98%E7%AE%A1%E5%B9%B3%E5%8F%B0/"/>
+    <id>http://yujonny.com/2022/12/09/Podcast%E6%89%98%E7%AE%A1%E5%B9%B3%E5%8F%B0/</id>
+    <published>2022-12-09T14:22:26.000Z</published>
+    <updated>2022-12-09T06:42:25.163Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前是把Podcast托管在RedCircle上，当时测试的时候国内访问没有什么问题，但是最近访问特别不稳定，即使挂了梯子也经常无法访问，联系了客服，具体原因未知，客服建议不要在China mainland用他们的服务;)</p><p>于是开始了折腾之路</p><p>播客的托管现在有几种方式：</p><h2 id="国内平台（喜马拉雅、荔枝FM等）"><a href="#国内平台（喜马拉雅、荔枝FM等）" class="headerlink" title="国内平台（喜马拉雅、荔枝FM等）"></a>国内平台（喜马拉雅、荔枝FM等）</h2><p>优点：</p><ul><li>国内访问稳定</li><li>免费，带宽、空间等资源暂无限制</li><li>系统比较稳定，不太容易出错，即使出错解决起来也比较方便</li></ul><p>缺点：</p><ul><li>受审查制度约束</li><li>版权检测严格，即使非商用也格杀勿论（非必要不侵权;)）</li><li>不知道什么时候节目就会被要求下架;)</li></ul><p>缺点无法弥补，不考虑;)</p><h2 id="国外托管平台"><a href="#国外托管平台" class="headerlink" title="国外托管平台"></a>国外托管平台</h2><p>优点：</p><ul><li>商业模式成熟 系统比较稳定</li><li>基本都有一键分发到各大平台的功能（Google Podcast、Spotify等）</li><li>客服响应比较迅速</li></ul><p>缺点：</p><ul><li>收费比较高</li><li>国内访问基本不太稳定</li><li>也会受一些国际版权影响</li></ul><h2 id="自建站"><a href="#自建站" class="headerlink" title="自建站"></a>自建站</h2><p>优点：</p><ul><li>完全掌握在自己手里，非商用自己玩玩基本不用考虑版权/说了不该说的话/各种原因被下架的风险</li></ul><p>缺点：</p><ul><li>技术门槛较高，我已经折腾好几天了头都要炸了，每天就靠洱海洗涤我的心灵。我遇到的具体问题有：<ul><li>GitHub不建议托管100M以上的文件。解决方案：使用onedrive外链存储播客音频文件</li><li>Hexo的Podcast generator插件使用人数不多，遇到了生成RSS源路径不正确、用于生成的信息不正确等问题，正在与开发者邮件沟通中，考虑到受众较少，预计解决有一定困难</li><li>Hexo-generator-podcasts插件会创建一个podcast的category，目前观察到会与网站本身的分类冲突，无法正确打开该分类的网页</li></ul></li><li>RSS、xml文件各家有各家的规范，且并不公开，需要一个个慢慢调试</li></ul>]]></content>
+    
+    
+    <summary type="html">快把我逼疯了</summary>
+    
+    
+    
+    <category term="Blog" scheme="http://yujonny.com/categories/Blog/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>大理生活日记 Day 15</title>
@@ -44,7 +63,7 @@
     <published>2022-12-07T16:00:00.000Z</published>
     <updated>2022-12-08T12:08:46.509Z</updated>
     
-    <content type="html"><![CDATA[  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css" integrity="sha256-uqQQGnDcmRKvhKwc5Vm4XT1GQ2oV6t1U0NR2N9tV+BQ=" crossorigin="anonymous">  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" integrity="sha256-6Y7CJDaltoeNgk+ZftgCD9jLgmGv4xKUo8nQ0HgAwVo=" crossorigin="anonymous"></script>  <div id="clbg1w3fz001lg4jccrjs933a"></div>  <script>const ap = new APlayer({      container: document.getElementById('clbg1w3fz001lg4jccrjs933a'),      audio: [{          name: 'EP.1 社会性熔断｜99年裸辞退休｜年轻人到底怎么想的？',          url: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdThxX1JNNHdMMmwteC1QaUQ3TnFYYW0yYkxrP2U9OFVlMzNE.mp3',          cover: '/img/灰色3000.png'      }]  });</script><p>test123</p>]]></content>
+    <content type="html"><![CDATA[  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css" integrity="sha256-uqQQGnDcmRKvhKwc5Vm4XT1GQ2oV6t1U0NR2N9tV+BQ=" crossorigin="anonymous">  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" integrity="sha256-6Y7CJDaltoeNgk+ZftgCD9jLgmGv4xKUo8nQ0HgAwVo=" crossorigin="anonymous"></script>  <div id="clbg562bk001iv2jchzc60uf3"></div>  <script>const ap = new APlayer({      container: document.getElementById('clbg562bk001iv2jchzc60uf3'),      audio: [{          name: 'EP.1 社会性熔断｜99年裸辞退休｜年轻人到底怎么想的？',          url: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdThxX1JNNHdMMmwteC1QaUQ3TnFYYW0yYkxrP2U9OFVlMzNE.mp3',          cover: '/img/灰色3000.png'      }]  });</script><p>test123</p>]]></content>
     
     
     <summary type="html">在大环境不断苛求年轻人更加努力拼搏的时候，他们究竟过着怎样的生活，追寻怎样的信仰？&lt;/br&gt;大范围的裸辞，是否为一种社会性的熔断机制？&lt;/br&gt;听听Jonny的现实故事，带你了解他们的想法&lt;/br&gt;&lt;/br&gt;主持人：Jonny、Anna&lt;/br&gt;插入视频：《一场精心策划的死亡》Jonny&lt;/br&gt;结尾音乐：《闯》五月天</summary>
@@ -403,25 +422,6 @@
     
     
     <category term="Podcast" scheme="http://yujonny.com/categories/Podcast/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>欢迎做客Jonny&#39;s, 网站正在配置中...</title>
-    <link href="http://yujonny.com/2022/11/19/%E6%AC%A2%E8%BF%8E%E5%81%9A%E5%AE%A2Jonny-s-%E7%BD%91%E7%AB%99%E6%AD%A3%E5%9C%A8%E9%85%8D%E7%BD%AE%E4%B8%AD/"/>
-    <id>http://yujonny.com/2022/11/19/%E6%AC%A2%E8%BF%8E%E5%81%9A%E5%AE%A2Jonny-s-%E7%BD%91%E7%AB%99%E6%AD%A3%E5%9C%A8%E9%85%8D%E7%BD%AE%E4%B8%AD/</id>
-    <published>2022-11-19T14:22:26.000Z</published>
-    <updated>2022-11-22T09:32:00.794Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>Welcome to Jonny’s</strong></p><p>这里未来将成为我的自由小天堂</p><p>我会在这里更新我的Blog、Podcast、笔记、相册等内容</p><hr><p><strong>网站正在配置中…</strong></p><p>目前进度：</p><ul><li><del>专属域名 yujonny.com</del></li><li><del>日间/夜间模式自动切换+配色优化</del></li><li><del>SSL认证(waiting for Cloudflare to verify)</del></li><li><del>制作Podcast界面，内置音频播放插件(<strong>第一期Podcast已上线！各大平台正在同步中！</strong>RSS：<a href="https://feeds.redcircle.com/d41ade4e-c377-43a4-ac76-d445722ccc04">https://feeds.redcircle.com/d41ade4e-c377-43a4-ac76-d445722ccc04</a>)</del></li><li>同步一些旧内容</li><li>优化首页显示排版(图片变大，单篇文章占据更多空间)</li><li>搭建图库系统</li><li><del>尝试内置音频</del></li><li>尝试内置视频</li><li>取消鼠标放到头像上会转一下这个sb特效（大家不妨趁它还没下线先试一下XD</li><li><del>制作“专栏”界面</del></li><li><del>制作“关于”界面</del></li><li>解决托管到GitHub后国内访问不稳定问题（用jsdeliver的CDN加速试试）</li></ul>]]></content>
-    
-    
-    <summary type="html">“这么早就来看我了！你是爱我的！🤗”</summary>
-    
-    
-    
-    <category term="Blog" scheme="http://yujonny.com/categories/Blog/"/>
     
     
   </entry>
