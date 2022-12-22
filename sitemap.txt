@@ -1,5 +1,5 @@
-http://yujonny.com/2022/11/30/%E8%A3%B8%E8%BE%9E/
 http://yujonny.com/2022/12/21/%E6%97%A0%E8%BE%B9%E8%AE%B0/
+http://yujonny.com/2022/11/30/%E8%A3%B8%E8%BE%9E/
 http://yujonny.com/2022/12/20/%E5%A4%A7%E7%90%86%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0-%E9%98%B3/
 http://yujonny.com/2022/12/16/%E5%A4%A7%E7%90%86%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B020-22/
 http://yujonny.com/2022/12/12/%E5%A4%A7%E7%90%86%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B01819/
@@ -29,4 +29,4 @@ http://yujonny.com/categories/index.html
 http://yujonny.com/
 http://yujonny.com/tags/%E5%A4%A7%E7%90%86%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/
 http://yujonny.com/categories/Blog/
-http://yujonny.com/categories/Podcast/
+http://yujonny.com/categories/podcast/
