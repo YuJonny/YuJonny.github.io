@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yujonny.com/2023/10/19/Bali/</loc>
+    
+    <lastmod>2023-10-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yujonny.com/2023/10/13/Yoga%20Barn/</loc>
+    
+    <lastmod>2023-10-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://yujonny.com/2023/09/26/%E7%90%86%E5%85%89GRIII/</loc>
     
     <lastmod>2023-09-28</lastmod>
@@ -463,7 +481,7 @@
 
   <url>
     <loc>http://yujonny.com/</loc>
-    <lastmod>2023-09-28</lastmod>
+    <lastmod>2023-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -471,7 +489,7 @@
   
   <url>
     <loc>http://yujonny.com/tags/%E5%A4%A7%E7%90%86%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2023-09-28</lastmod>
+    <lastmod>2023-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -480,14 +498,14 @@
   
   <url>
     <loc>http://yujonny.com/categories/Blog/</loc>
-    <lastmod>2023-09-28</lastmod>
+    <lastmod>2023-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://yujonny.com/categories/podcast/</loc>
-    <lastmod>2023-09-28</lastmod>
+    <lastmod>2023-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
