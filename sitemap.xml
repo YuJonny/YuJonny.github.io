@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yujonny.com/2023/12/05/%E7%BB%88%E4%BA%8E%E7%BB%93%E6%9D%9F%E7%9A%84%E5%89%A7%E6%83%85/</loc>
+    
+    <lastmod>2023-12-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://yujonny.com/2023/11/22/202311/</loc>
     
     <lastmod>2023-12-05</lastmod>
@@ -517,7 +526,7 @@
 
   <url>
     <loc>http://yujonny.com/</loc>
-    <lastmod>2023-12-07</lastmod>
+    <lastmod>2023-12-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -525,7 +534,7 @@
   
   <url>
     <loc>http://yujonny.com/tags/%E5%A4%A7%E7%90%86%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2023-12-07</lastmod>
+    <lastmod>2023-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -534,14 +543,14 @@
   
   <url>
     <loc>http://yujonny.com/categories/Blog/</loc>
-    <lastmod>2023-12-07</lastmod>
+    <lastmod>2023-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://yujonny.com/categories/podcast/</loc>
-    <lastmod>2023-12-07</lastmod>
+    <lastmod>2023-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
