@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>万物研究员</title>
-    <link>http://yujonny.com/</link>
+    <link>https://yujonny.com/</link>
     <copyright>All rights reserved.</copyright>
     <itunes:subtitle>对世界万物抱有好奇与期待 记录我们活过的证据 yujonny.com</itunes:subtitle>
     <itunes:author>Jonny Yu</itunes:author>
@@ -44,7 +44,7 @@
       <itunes:summary></itunes:summary>
       <itunes:image href=""/>
       <enclosure url="" length="" type=""/>
-      <guid>http://yujonny.com/2024/11/25/Podcasts/EP.5%20AI%E5%B9%BF%E5%91%8A/</guid>
+      <guid>https://yujonny.com/2024/11/25/Podcasts/EP.5%20AI%E5%B9%BF%E5%91%8A/</guid>
       <pubDate>Sun, 24 Nov 2024 16:00:00 GMT</pubDate>
       <itunes:duration></itunes:duration>
       <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
@@ -69,7 +69,7 @@
       <itunes:summary></itunes:summary>
       <itunes:image href=""/>
       <enclosure url="" length="" type=""/>
-      <guid>http://yujonny.com/2024/10/26/Podcasts/EP.4%20%E9%AB%98%E5%8A%A0%E7%B4%A2%E4%B8%8B/</guid>
+      <guid>https://yujonny.com/2024/10/26/Podcasts/EP.4%20%E9%AB%98%E5%8A%A0%E7%B4%A2%E4%B8%8B/</guid>
       <pubDate>Fri, 25 Oct 2024 16:00:00 GMT</pubDate>
       <itunes:duration></itunes:duration>
       <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
@@ -94,7 +94,7 @@
       <itunes:summary></itunes:summary>
       <itunes:image href=""/>
       <enclosure url="" length="" type=""/>
-      <guid>http://yujonny.com/2024/08/31/Podcasts/EP.3%20%E9%AB%98%E5%8A%A0%E7%B4%A2%E4%B8%8A/</guid>
+      <guid>https://yujonny.com/2024/08/31/Podcasts/EP.3%20%E9%AB%98%E5%8A%A0%E7%B4%A2%E4%B8%8A/</guid>
       <pubDate>Fri, 30 Aug 2024 16:00:00 GMT</pubDate>
       <itunes:duration></itunes:duration>
       <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
@@ -128,7 +128,7 @@
       <itunes:summary></itunes:summary>
       <itunes:image href=""/>
       <enclosure url="" length="" type=""/>
-      <guid>http://yujonny.com/2022/12/21/Podcasts/EP.2%E6%97%A0%E8%BE%B9%E8%AE%B0/</guid>
+      <guid>https://yujonny.com/2022/12/21/Podcasts/EP.2%E6%97%A0%E8%BE%B9%E8%AE%B0/</guid>
       <pubDate>Tue, 20 Dec 2022 16:00:00 GMT</pubDate>
       <itunes:duration></itunes:duration>
       <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
@@ -152,7 +152,7 @@
       <itunes:summary></itunes:summary>
       <itunes:image href=""/>
       <enclosure url="" length="" type=""/>
-      <guid>http://yujonny.com/2022/11/30/Podcasts/EP.1%20%E8%A3%B8%E8%BE%9E/</guid>
+      <guid>https://yujonny.com/2022/11/30/Podcasts/EP.1%20%E8%A3%B8%E8%BE%9E/</guid>
       <pubDate>Tue, 29 Nov 2022 16:00:00 GMT</pubDate>
       <itunes:duration></itunes:duration>
       <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
